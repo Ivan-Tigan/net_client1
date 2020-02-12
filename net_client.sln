@@ -1,0 +1,27 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "net_client", "net_client.csproj", "{465ACF3B-E608-460B-99C6-307DD007F962}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "FS", "FS\FS.fsproj", "{0C8DB84F-C8AB-48D2-9709-ADD12569235F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	Release|Any CPU = Release|Any CPU
+	Tools|Any CPU = Tools|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{465ACF3B-E608-460B-99C6-307DD007F962}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465ACF3B-E608-460B-99C6-307DD007F962}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465ACF3B-E608-460B-99C6-307DD007F962}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465ACF3B-E608-460B-99C6-307DD007F962}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465ACF3B-E608-460B-99C6-307DD007F962}.Tools|Any CPU.ActiveCfg = Tools|Any CPU
+		{465ACF3B-E608-460B-99C6-307DD007F962}.Tools|Any CPU.Build.0 = Tools|Any CPU
+		{0C8DB84F-C8AB-48D2-9709-ADD12569235F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8DB84F-C8AB-48D2-9709-ADD12569235F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C8DB84F-C8AB-48D2-9709-ADD12569235F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C8DB84F-C8AB-48D2-9709-ADD12569235F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C8DB84F-C8AB-48D2-9709-ADD12569235F}.Tools|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C8DB84F-C8AB-48D2-9709-ADD12569235F}.Tools|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
