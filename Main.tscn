@@ -14,3 +14,12 @@ position = Vector2( 465.926, 454.915 )
 
 [node name="Player3" parent="." instance=ExtResource( 1 )]
 position = Vector2( 531.836, 267.524 )
+
+[node name="Label" type="Label" parent="."]
+margin_right = 40.0
+margin_bottom = 14.0
+rect_scale = Vector2( 7.70488, 9.19028 )
+text = "asd"
+__meta__ = {
+"_edit_use_anchors_": false
+}

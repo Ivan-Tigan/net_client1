@@ -2,12 +2,8 @@
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/net_client.pdb
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/FS.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/FSharp.Core.dll
-/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/websocket-sharp.dll
-/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/Newtonsoft.Json.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/FS.pdb
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/FSharp.Core.xml
-/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/websocket-sharp.xml
-/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/Newtonsoft.Json.xml
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/de/FSharp.Core.resources.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/es/FSharp.Core.resources.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/zh-Hans/FSharp.Core.resources.dll
@@ -26,3 +22,5 @@
 /home/vankata/Documents/Godot/net_client/.mono/temp/obj/Debug/net_client.csproj.CopyComplete
 /home/vankata/Documents/Godot/net_client/.mono/temp/obj/Debug/net_client.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/obj/Debug/net_client.pdb
+/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/Newtonsoft.Json.dll
+/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Debug/Newtonsoft.Json.xml
