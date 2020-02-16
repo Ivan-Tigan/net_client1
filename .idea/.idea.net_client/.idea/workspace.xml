@@ -3,30 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="31074d64-5d71-4de3-b7bf-57241e617c41" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.net_client/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.net_client/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/metadata/ide_server_meta.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/metadata/ide_server_meta.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Debug/FS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Debug/FS.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Debug/FS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Debug/FS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Debug/net_client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Debug/net_client.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Debug/websocket-sharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Debug/websocket-sharp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Tools/FS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Tools/FS.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Tools/FS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Tools/FS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Tools/net_client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/bin/Tools/net_client.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Tools/websocket-sharp.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/bin/Tools/websocket-sharp.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/net_client.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/net_client.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/net_client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/net_client.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Debug/net_client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Debug/net_client.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Tools/net_client.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Tools/net_client.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Tools/net_client.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Tools/net_client.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.mono/temp/obj/Tools/net_client.dll" beforeDir="false" afterPath="$PROJECT_DIR$/.mono/temp/obj/Tools/net_client.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FS/Library.fs" beforeDir="false" afterPath="$PROJECT_DIR$/FS/Library.fs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FS/bin/Debug/FS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FS/bin/Debug/FS.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FS/bin/Debug/FS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FS/bin/Debug/FS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FS/obj/Debug/FS.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FS/obj/Debug/FS.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FS/obj/Debug/FS.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FS/obj/Debug/FS.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.tscn" beforeDir="false" afterPath="$PROJECT_DIR$/Main.tscn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/export_presets.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/export_presets.cfg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,7 +74,8 @@
       <workItem from="1581698002950" duration="5801000" />
       <workItem from="1581705674911" duration="3305000" />
       <workItem from="1581791937073" duration="302000" />
-      <workItem from="1581792942591" duration="7447000" />
+      <workItem from="1581792942591" duration="7645000" />
+      <workItem from="1581806720530" duration="128000" />
     </task>
     <servers />
   </component>

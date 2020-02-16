@@ -32,7 +32,7 @@ type WebSocketClient'(url : string) as this=
         this.Connect("data_received", this, "on_message") |> ignore
     let mutable connected = false    
     let _OnConnected = new Event<_>()
-    let _OnMessage = new Event<Message>()
+    let _OnMessage   = new Event<Message>()
     member val OnConnected = _OnConnected.Publish
     member val OnMessage = _OnMessage.Publish
     member this.on_connected(protocol: obj[]) =
@@ -44,7 +44,7 @@ type WebSocketClient'(url : string) as this=
 and ServerFs() =
     inherit Node()
     static member val ws = lazy (
-        let ret = new WebSocketClient'("ws://192.168.0.14:8080/lobby")
+        let ret = new WebSocketClient'("ws://172.22.8.180:8080/lobby")
         ret
     )
 

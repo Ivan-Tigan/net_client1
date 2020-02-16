@@ -30,8 +30,8 @@
 /home/vankata/Documents/Godot/net_client/FS/obj/Debug/FS.fsprojAssemblyReference.cache
 /home/vankata/Documents/Godot/net_client/FS/obj/Debug/FS.dll
 /home/vankata/Documents/Godot/net_client/FS/obj/Debug/FS.pdb
-/home/vankata/Documents/Godot/net_client/FS/bin/Debug/FS.dll
 /home/vankata/Documents/Godot/net_client/FS/bin/Debug/FS.pdb
+/home/vankata/Documents/Godot/net_client/FS/bin/Debug/FS.dll
 /home/vankata/Documents/Godot/net_client/FS/bin/Debug/FSharp.Core.dll
 /home/vankata/Documents/Godot/net_client/FS/bin/Debug/GodotSharp.dll
 /home/vankata/Documents/Godot/net_client/FS/bin/Debug/Newtonsoft.Json.dll

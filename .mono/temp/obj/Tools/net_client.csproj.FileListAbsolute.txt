@@ -1,10 +1,14 @@
 /home/vankata/Documents/Godot/net_client/.mono/temp/obj/Tools/net_client.csprojAssemblyReference.cache
-/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/net_client.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/net_client.pdb
+/home/vankata/Documents/Godot/net_client/.mono/temp/obj/Tools/net_client.dll
+/home/vankata/Documents/Godot/net_client/.mono/temp/obj/Tools/net_client.pdb
+/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/net_client.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/FS.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/FSharp.Core.dll
+/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/Newtonsoft.Json.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/FS.pdb
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/FSharp.Core.xml
+/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/Newtonsoft.Json.xml
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/de/FSharp.Core.resources.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/es/FSharp.Core.resources.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/zh-Hans/FSharp.Core.resources.dll
@@ -20,7 +24,3 @@
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/tr/FSharp.Core.resources.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/pt-BR/FSharp.Core.resources.dll
 /home/vankata/Documents/Godot/net_client/.mono/temp/obj/Tools/net_client.csproj.CopyComplete
-/home/vankata/Documents/Godot/net_client/.mono/temp/obj/Tools/net_client.dll
-/home/vankata/Documents/Godot/net_client/.mono/temp/obj/Tools/net_client.pdb
-/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/Newtonsoft.Json.dll
-/home/vankata/Documents/Godot/net_client/.mono/temp/bin/Tools/Newtonsoft.Json.xml
